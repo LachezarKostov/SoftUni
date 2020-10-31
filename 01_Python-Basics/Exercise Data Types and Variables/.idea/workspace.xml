@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45121ba9-b5ba-4ef9-a52b-2e026f624ba1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ccP4F26k7V7HDslPOEcXAKfhVV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.10Gladiator Expenses">
+    <configuration name="06Triples of Latin Letters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercise Data Types and Variables" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06Triples of Latin Letters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07 Water Overflow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercise Data Types and Variables" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07 Water Overflow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08Party Profit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercise Data Types and Variables" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08Party Profit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09Snowballs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercise Data Types and Variables" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09Snowballs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10Gladiator Expenses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercise Data Types and Variables" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10Gladiator Expenses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.10Gladiator Expenses" />
+        <item itemvalue="Python.09Snowballs" />
+        <item itemvalue="Python.08Party Profit" />
+        <item itemvalue="Python.07 Water Overflow" />
+        <item itemvalue="Python.06Triples of Latin Letters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45121ba9-b5ba-4ef9-a52b-2e026f624ba1" name="Default Changelist" comment="" />
+      <created>1590824714373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590824714373</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1111" height="347" key="GridCell.Tab.0.bottom" timestamp="1590831563677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1111" height="347" key="GridCell.Tab.0.bottom/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590831563677" />
+    <state width="1111" height="347" key="GridCell.Tab.0.center" timestamp="1590831563677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1111" height="347" key="GridCell.Tab.0.center/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590831563677" />
+    <state width="1111" height="347" key="GridCell.Tab.0.left" timestamp="1590831563677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1111" height="347" key="GridCell.Tab.0.left/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590831563677" />
+    <state width="1111" height="347" key="GridCell.Tab.0.right" timestamp="1590831563677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1111" height="347" key="GridCell.Tab.0.right/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590831563677" />
+    <state width="1111" height="347" key="GridCell.Tab.1.bottom" timestamp="1590831563678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1111" height="347" key="GridCell.Tab.1.bottom/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590831563678" />
+    <state width="1111" height="347" key="GridCell.Tab.1.center" timestamp="1590831563678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1111" height="347" key="GridCell.Tab.1.center/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590831563678" />
+    <state width="1111" height="347" key="GridCell.Tab.1.left" timestamp="1590831563678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1111" height="347" key="GridCell.Tab.1.left/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590831563678" />
+    <state width="1111" height="347" key="GridCell.Tab.1.right" timestamp="1590831563678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1111" height="347" key="GridCell.Tab.1.right/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590831563678" />
+    <state x="271" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1591347044941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="271" y="345" key="com.intellij.ide.util.TipDialog/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1591347044941" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/09Snowballs.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
