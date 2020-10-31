@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c830f37c-b3a2-44af-b255-3bfd9258c9e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jY1dHOGT6l5GxKxij5WlQYB0iD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dream\Desktop\Python\OP-Python\01-Defining Classes\02_Exercise\08_Spoopify\project2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.trainer">
+    <configuration name="03_Hero" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="02_Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Hero.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04_SteamUser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="02_Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_SteamUser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05_Programmer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="02_Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Programmer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="02_Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="02_Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/trainer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.trainer" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.05_Programmer" />
+        <item itemvalue="Python.04_SteamUser" />
+        <item itemvalue="Python.03_Hero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c830f37c-b3a2-44af-b255-3bfd9258c9e9" name="Default Changelist" comment="" />
+      <created>1603966296931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603966296931</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="295" y="266" key="FileChooserDialogImpl" timestamp="1604050120328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="295" y="266" key="FileChooserDialogImpl/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604050120328" />
+    <state width="1172" height="347" key="GridCell.Tab.0.bottom" timestamp="1604004829997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1172" height="347" key="GridCell.Tab.0.bottom/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604004829997" />
+    <state width="1172" height="347" key="GridCell.Tab.0.center" timestamp="1604004829997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1172" height="347" key="GridCell.Tab.0.center/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604004829997" />
+    <state width="1172" height="347" key="GridCell.Tab.0.left" timestamp="1604004829997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1172" height="347" key="GridCell.Tab.0.left/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604004829997" />
+    <state width="1172" height="347" key="GridCell.Tab.0.right" timestamp="1604004829997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1172" height="347" key="GridCell.Tab.0.right/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604004829997" />
+    <state width="1172" height="347" key="GridCell.Tab.1.bottom" timestamp="1604004829998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1172" height="347" key="GridCell.Tab.1.bottom/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604004829998" />
+    <state width="1172" height="347" key="GridCell.Tab.1.center" timestamp="1604004829997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1172" height="347" key="GridCell.Tab.1.center/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604004829997" />
+    <state width="1172" height="347" key="GridCell.Tab.1.left" timestamp="1604004829997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1172" height="347" key="GridCell.Tab.1.left/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604004829997" />
+    <state width="1172" height="347" key="GridCell.Tab.1.right" timestamp="1604004829998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1172" height="347" key="GridCell.Tab.1.right/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604004829998" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1603966475894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603966475894" />
+    <state x="177" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1604048986635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="177" y="345" key="com.intellij.ide.util.TipDialog/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604048986635" />
+  </component>
+</project>
