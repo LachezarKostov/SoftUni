@@ -1,0 +1,26 @@
+from project.bord import Bord
+
+
+def main():
+    bord = Bord.from_string("""
+    ......x.x.
+    .......x..
+    ..........
+    ..........
+    ..........
+    ..........
+    ..........
+    ..........
+    ..........
+    ..........
+    
+    """)
+    while True:
+        input()
+
+        print(bord)
+        bord.next_generation()
+
+
+if __name__ == "__main__":
+    main()
