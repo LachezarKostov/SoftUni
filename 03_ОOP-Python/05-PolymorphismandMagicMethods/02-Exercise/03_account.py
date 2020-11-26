@@ -66,4 +66,19 @@ class Account:
         return new_acc
 
 
+class Main:
 
+    def __init__(self):
+        pass
+
+    
+    def equal_or(acc_1, acc_2):
+        if acc_1 == acc_2:
+            return True
+
+    for x in range(0, 10):
+        for y in range(0, 10):
+            acc_1 = Account("Gosho", x)
+            acc_2 = Account("Gosho", y)
+
+            print(equal_or(acc_1, acc_2), x, y)
