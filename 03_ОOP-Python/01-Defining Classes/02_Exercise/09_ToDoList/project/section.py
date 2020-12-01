@@ -1,39 +1,56 @@
 from typing import List
+
 from project.task import Task
 
 
 class Section:
+    """The Section class is a container for various tasks and aids in managing them"""
+
     name: str
     tasks: List[Task]
 
-    def __init__(self, name: str):
+    def __init__(self, name):
         self.name = name
         self.tasks = []
 
-    def add_task(self, new_task: Task):
+    def add_task(self, new_task: Task) -> str:
+        """Adds a task to the section.
+        returns - Task <task details> is added to the section
+        returns 'Task is already in the section <section name>' if the tasks already is in the section
+        """
+
         if new_task.name in [t.name for t in self.tasks]:
-            return f"Task is already in the section {self.name}"
+            return f'Task is already in the section {self.name}'
 
         self.tasks.append(new_task)
-        return f"Task {new_task.details()} is added to the section"
+        return f'Task {new_task.details()} is added to the section'
 
-    def complete_task(self, task_name: str):  # TODO check if task is completed b4 that
-        list_of_tasks = [t.name for t in self.tasks]
+    def complete_task(self, task_name: str) -> str:
+        """Completes a task from the section.
+        returns - Completed task <task name>
+        returns 'Could not find task with the name <task name>' if the task is not in the section
+        """
 
-        if task_name not in [t.name for t in self.tasks]:
-            return f"Could not find task with the name {task_name}"
+        task_names = [t.name for t in self.tasks]
 
-        self.tasks[list_of_tasks.index(task_name)].completed = True
-        return f"Completed task {task_name}"
+        if task_name not in task_names:
+            return f'Could not find task with the name {task_name}'
 
-    def clean_section(self):
+        task = self.tasks[task_names.index(task_name)]
+        task.completed = True
+        return f'Completed task {task.name}'
 
-        b4_removal = len(self.tasks)
+    def clean_section(self) -> str:
+        """Removes all *completed* tasks from the section.
+        returns - 'Cleared <number of tasks that got cleared>'
+        """
+        amount_of_tasks = len(self.tasks)
         self.tasks = [t for t in self.tasks if not t.completed]
-        removed = b4_removal - len(self.tasks)
+        return f'Cleared {amount_of_tasks - len(self.tasks)} tasks.'
 
-        return f"Cleared {removed} tasks."
+    def view_section(self) -> str:
+        """Returns a string representation of the section and it's tasks."""
 
-    def view_section(self):
-        return F"Section {self.name}:" + "\n" + \
-               "\n".join([t.details() for t in self.tasks]) + "\n"
+        return f'Section {self.name}:\n' + '\n'.join(
+            [t.details() for t in self.tasks]
+        )

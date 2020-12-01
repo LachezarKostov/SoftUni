@@ -51,6 +51,5 @@ class Storage:
     def get_document(self, document_id: int):
         return [d for d in self.documents if d.id == document_id][0]
 
-
     def __repr__(self):
         return '\n'.join(repr(d) for d in self.documents)
