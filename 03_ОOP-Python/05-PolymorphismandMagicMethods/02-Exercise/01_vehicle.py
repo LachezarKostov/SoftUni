@@ -35,3 +35,5 @@ class Truck(Vehicle):
         if self.fuel_quantity < fuel_needed:
             return
         self.fuel_quantity -= fuel_needed
+
+
